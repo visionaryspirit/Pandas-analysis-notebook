@@ -1,2 +1,2 @@
 # Pandas-analysis-notebook
-Analysis of financial assets using pandas 
+Analysis and visualisation of the portfolios
